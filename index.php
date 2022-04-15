@@ -57,7 +57,7 @@
 </head>
 
 <body>
-    <h1 style="align-text:center; padding:2rem"> Refresh The Page </h1>
+    <h1 style="text-align:center; padding:2rem"> Refresh The Page </h1>
     <section>
         <article>
             <?php
